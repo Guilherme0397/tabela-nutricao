@@ -1,5 +1,5 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Ana C. Andrelino Nutrição";
+titulo.textContent = "Sports Nutrição";
 
 var pacientes = document.querySelectorAll(".paciente");
 
